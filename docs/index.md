@@ -31,7 +31,7 @@ __Radio College of Canada__, Toronto, ON
 
 `1994 - 2009`
 __Styro Patterns Inc.__, Brampton, ON
-CNC Programmer
+- CNC Programmer
 - Designed computer models using CAD software
 - Programmed CNC milling tool paths using CAM software
 
