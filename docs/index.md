@@ -29,7 +29,7 @@ Received General Knowlege Award for Outstanding Achievement on the RCC Faculty E
 
 ## Experience
 
-'1994 - 2009'
+`1994 - 2009`
 __Styro Patterns Inc.__, Brampton, ON
 CNC Programmer
 - Designed computer models using CAD software
