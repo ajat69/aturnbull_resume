@@ -17,14 +17,14 @@ title: Andrew Turnbull's Resume
 
 `Expected July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-Bachelor of Science - Software Engineering
-GPA - 3.97
-Relevant Courses: Business Statistics, Data Science Programming
+- Bachelor of Science - Software Engineering
+- GPA - 3.97
+- Relevant Courses: Business Statistics, Data Science Programming
 
 `September 1992`
 __Radio College of Canada__, Toronto, ON
-Engineering Technician (Electronics)
-Received General Knowlege Award for Outstanding Achievement on the RCC Faculty Exam
+- Engineering Technician (Electronics)
+- Received General Knowlege Award for Outstanding Achievement on the RCC Faculty Exam
 
 
 ## Experience
